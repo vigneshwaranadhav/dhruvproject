@@ -384,7 +384,9 @@ System.out.println("america");
 System.out.println("london");
 }
 		
-		
+private void usa() {
+	System.out.println("usa");
+}		
 		
 	}
 
