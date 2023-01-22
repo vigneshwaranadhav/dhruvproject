@@ -376,7 +376,9 @@ public class baseClass {
 	 
 		}
 
-
+ private void america() {
+System.out.println("america");
+}
 		
 		
 		
