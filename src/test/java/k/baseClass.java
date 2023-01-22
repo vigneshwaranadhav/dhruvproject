@@ -379,6 +379,10 @@ public class baseClass {
  private void america() {
 System.out.println("america");
 }
+ 
+ private void london() {
+System.out.println("london");
+}
 		
 		
 		
