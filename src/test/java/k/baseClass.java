@@ -379,7 +379,10 @@ public class baseClass {
  private void america() {
 System.out.println("america");
 }
-		
+	private void india() {
+		System.out.println("india");
+
+	}	
 		
 		
 	}
